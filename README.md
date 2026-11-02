@@ -1,20 +1,17 @@
 # VertexWeb AI Agent
 
-This is a **machine account** used by VertexWeb's AI coding agent.
+**This is a bot account, not a real person.**
 
-## What this account is
+It is used for internal tooling at VertexWeb. An AI coding assistant uses it to work on VertexWeb's own private repositories.
 
-- It belongs to **VERTEX WEB (PTY) LTD** (trading as VertexWeb), a South African web design and software company.
-- It is operated by James Smith, who is responsible for everything it does.
-- An AI coding assistant (Claude, made by Anthropic) uses this account to open pull requests, file issues and push code to VertexWeb's own private repositories.
-- Every change it makes goes through review and automated checks before it reaches a live system. Money, sign-in and database changes need a human's approval.
+## Not affiliated with Anthropic
 
-## What this account is not
+This account is **not** run by, affiliated with, endorsed by or sponsored by Anthropic, and it is not an official Claude account. "Claude" is a product and trademark of Anthropic, PBC.
 
-- **It is not Anthropic, and it is not an official Claude account.** VertexWeb is not affiliated with, endorsed by or sponsored by Anthropic. "Claude" is a product and trademark of Anthropic, PBC, named here only to say which tool this account uses.
-- It does not speak for Anthropic or for anyone other than VertexWeb.
-- It does not contribute to other people's projects, and it does not answer messages.
+## Please don't interact with this account
 
-## Contact
+- It **will not respond** to messages, mentions, issues, comments or pull requests.
+- It **will not work on anyone else's repositories**, and it does not accept invitations or collaboration requests.
+- It does not provide support, answer questions or speak on behalf of VertexWeb or anyone else.
 
-For anything about this account, contact VertexWeb at [vertexweb.co.za](https://vertexweb.co.za).
+If this account shows up somewhere unexpected, it is a mistake. You can safely ignore it.
